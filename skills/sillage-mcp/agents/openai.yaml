@@ -1,0 +1,4 @@
+interface:
+  display_name: "Sillage MCP"
+  short_description: "Use Sillage local MCP travel tools"
+  default_prompt: "Use $sillage-mcp to manage my Sillage travel records through the local MCP server."

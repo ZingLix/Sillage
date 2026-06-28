@@ -63,6 +63,15 @@ If you want backup or sync, Sillage only sends your data to cloud storage or rem
 - Avoid platform upload and unnecessary privacy concerns
 - Back up or sync directly to your own OneDrive, WebDAV, or iCloud
 
+## Agent Skill
+
+This repository includes the `sillage-mcp` agent skill for managing Sillage records through the app's local MCP server.
+
+```bash
+npx skills add ZingLix/Sillage
+```
+
+
 ## Why Sillage
 
 Many travel tools are good at storing information.  

@@ -64,6 +64,14 @@ Sillage 是一款把轨迹、火车、飞机、酒店放在一起记录的旅行
 - 不会上传到平台，没有额外的隐私负担
 - 可直接上传至你的 OneDrive、WebDAV、iCloud 做备份或同步
 
+## Agent Skill
+
+这个仓库包含 `sillage-mcp` agent skill，可以让支持 skills 的 Agent 通过 Sillage App 的本地 MCP Server 管理你的旅行记录。
+
+```bash
+npx skills add ZingLix/Sillage
+```
+
 ## 为什么是 Sillage
 
 很多旅行记录工具擅长管理信息，  
